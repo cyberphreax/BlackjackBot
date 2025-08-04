@@ -1628,7 +1628,7 @@ player_win_lines = [
     "Okay… who unplugged my RNG?",
     "Whatever. I totally let you win.",
     "This will not be forgotten.",
-    "You must be feeling *real* proud.",
+    "You must be feeling real proud.",
     "Destroying code feels… weird.",
     "I guess even bots get burned sometimes.",
     "Happy? Go buy yourself a trophy.",
