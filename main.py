@@ -290,7 +290,8 @@ class BetButton(discord.ui.Button):
 
 class BetSelectionView(discord.ui.View):
     def __init__(self, user_chips):
-        super().__init__(timeout=30)
+        super().__init__(timeout=300)
+                    
 
         # Add bet buttons based on available chips
         if user_chips >= 25:
